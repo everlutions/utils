@@ -1,6 +1,11 @@
 # utils
 An Andorid utility Library
 
+Add to your gradle file
+```gradle
+compile 'nl.everlutions:utils:1.0'
+```
+
 ### PrefsUtils.class
 Can be used to make it easily read and write variables and POJO's to SharedPreferences. 
 
